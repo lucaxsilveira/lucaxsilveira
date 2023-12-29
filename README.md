@@ -9,7 +9,7 @@ In this technological world I decided to focus on the front end, I believe that 
 
 Since 2013 I've been looking to create tools that make the world <b>simpler</b> and <b>easier</b> for everyone.
 
-🖥 &nbsp; <a href="https://lucassilveira.dev" target="_blank">https://lucassilveira.dev</a> 
+🖥 &nbsp; <a href="https://lucaxsilveira.dev" target="_blank">https://lucaxsilveira.dev</a> 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Silveira-444444?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-silveiraa/)](https://www.linkedin.com/in/lucas-silveiraa/) 
 [![Gmail Badge](https://img.shields.io/badge/-lucaxsilveira@gmail.com-444444?style=flat&logo=Gmail&logoColor=white&link=mailto:lucaxsilveira@gmail.com)](mailto:lucaxsilveira@gmail.com)
